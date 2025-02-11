@@ -1,3 +1,4 @@
 # sheetalumakrishna-demo
-This is my new practice git repository
-Aurthor - Sheetal Umakrishna
+This is my new practice Git Repository
+<br>
+Author - Sheetal Umakrishna
